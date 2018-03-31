@@ -105,7 +105,7 @@
                         <warSourceDirectory>src/main/webapp</warSourceDirectory>
                         <warName>SpringApiServices</warName>
                         <!-- <outputDirectory>E:/JBossCustomInst/wildfly-9.0.2.Final/standalone/deployments</outputDirectory> -->
-                        <outputDirectory>C:/Program Files/Apache Software Foundation/Tomcat 7.0/webapps</outputDirectory>
+                        <outputDirectory>/var/lib/jenkins/workspace/Git_pro_cron/target</outputDirectory>
                         <failOnMissingWebXml>false</failOnMissingWebXml>
                     </configuration>
                 </plugin>
